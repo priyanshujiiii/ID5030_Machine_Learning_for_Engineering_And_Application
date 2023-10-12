@@ -8,3 +8,5 @@
 #Q10
 
 ![image](https://github.com/priyanshujiiii/ID5030_Machine_Learning_for_Engineering_And_Application/assets/89120960/ddb332c1-bb48-4690-8ae1-cca6028313e9)
+
+![image](https://github.com/priyanshujiiii/ID5030_Machine_Learning_for_Engineering_And_Application/assets/89120960/24f7e703-e3c3-4382-9dbe-c86f966ac983)
